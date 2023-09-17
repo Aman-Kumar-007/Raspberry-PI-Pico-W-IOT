@@ -5,8 +5,8 @@ import json
 from machine import Pin
 
 # WiFi Credentials
-SSID = 'aman'
-PASSWORD = 'aman1234'
+SSID = 'Your SSID'
+PASSWORD = 'Your SSID Password'
 
 # Pins for sensors
 trigger = Pin(3, Pin.OUT)
